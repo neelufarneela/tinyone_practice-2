@@ -1,0 +1,58 @@
+Notes of header part
+____________________
+
+navbar :-
+----------------------------------------------
+menu > ul > li > a:
+
+1.padding:
+xl,lg            md              sm            xs
+0 40px           0 0             0 0           0 0
+
+2.text-align:
+xl,lg            md              sm            xs
+left             right           right         right
+
+3.font-size:
+xl,lg            md              sm            xs
+22px             22px            22px          20px
+
+
+Notes of slider part
+____________________
+
+slider :-
+---------------------------------------------------
+padding-bottom:
+xl,lg            md              sm            xs
+100px            100px           80px          80px
+
+c_ci :-
+---------------------------------------------------
+bottom:
+xl,lg            md              sm            xs
+-80px            -80px           -50px         -50px
+
+s_content :-
+---------------------------------------------------
+margin-top:
+xl,lg            md              sm            xs
+70px             30px            10px          10px
+
+s_content > h1 :-
+---------------------------------------------------
+font-size:
+xl,lg            md              sm            xs
+32px             32px            32px          25px
+
+s_content > p :-
+---------------------------------------------------
+margin-bottom:
+xl,lg            md              sm            xs
+30px             30px            30px          10px
+
+s_icon > li :-
+---------------------------------------------------
+margin-right:
+xl,lg            md              sm            xs
+30px             30px            30px          20px
